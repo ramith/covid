@@ -1,0 +1,20 @@
+[2021-06-10 17:44:09,602] SEVERE {b7a.log.crash} - ballerinax/covid19/0_1_0/$ConfigurationMapper 
+java.lang.NoClassDefFoundError: ballerinax/covid19/0_1_0/$ConfigurationMapper
+	at ramith.covid.0_1_0.$ConfigurationMapper.$configureInit(Unknown Source)
+	at ramith.covid.0_1_0.$_init.main(covid)
+Caused by: java.lang.ClassNotFoundException: ballerinax.covid19.0_1_0.$ConfigurationMapper
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+	... 2 more
+ 
+[2021-06-10 17:45:28,693] SEVERE {b7a.log.crash} - ballerinax/covid19/0_1_0/$ConfigurationMapper 
+java.lang.NoClassDefFoundError: ballerinax/covid19/0_1_0/$ConfigurationMapper
+	at ramith.covid.0_1_0.$ConfigurationMapper.$configureInit(Unknown Source)
+	at ramith.covid.0_1_0.$_init.main(covid)
+Caused by: java.lang.ClassNotFoundException: ballerinax.covid19.0_1_0.$ConfigurationMapper
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(Unknown Source)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(Unknown Source)
+	at java.base/java.lang.ClassLoader.loadClass(Unknown Source)
+	... 2 more
+ 
